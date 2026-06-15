@@ -1,0 +1,6 @@
+{
+  "name": "MZK AC Portal",
+  "description": "Premium on-demand AC services marketplace (repair, installation, maintenance) and cooling system store by MZK Enterprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
